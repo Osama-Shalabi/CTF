@@ -5,7 +5,7 @@
 1. **Challenge name**: Community Website?  
    **Solution file**: [View Solution](/Solution/ctfWebWriteup%20.pdf)
 
-2. **Challenge name**: Gussion  
+2. **Challenge name**: Guession   
    **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
 
 ---
