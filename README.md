@@ -39,10 +39,10 @@
 ## Cryptography
 
 1. **Challenge name**: Hash Cracker  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Write-Up-Crypto.pdf)
 
 2. **Challenge name**: Power Lies in Multi-layered Encoding  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Write-Up-Crypto.pdf)
 
 3. **Challenge name**: Hill to Hell  
    **Solution file**: [View Solution](/Solution/Write-Up-Crypto.pdf)
