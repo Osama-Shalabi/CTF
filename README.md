@@ -1,4 +1,4 @@
-# CTF - 23/7/2025
+# CTF Tournament - 23/7/2025
 
 ## Web
 
