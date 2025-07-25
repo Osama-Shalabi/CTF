@@ -19,7 +19,7 @@
    **Solution file**: [View Solution](/Solution/Writeup.pdf)
 
 3. **Challenge name**: Normal Image  
-   **Solution file**: [View Solution](/Solution/Solution/Digital_Forensics_Writeups[1].pdf)
+   **Solution file**: [View Solution](/Solution/Solution/Digital_Forensics_Writeups.pdf)
 
 ---
 
