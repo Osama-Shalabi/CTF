@@ -3,7 +3,7 @@
 ## Web
 
 1. **Challenge name**: Community Website?  
-   **Solution file**: *(Add link or filename)*
+   **Solution file**: [View Solution](Solution/ctfWebWriteup.pdf)
 
 2. **Challenge name**: Gussion  
    **Solution file**: *(Add link or filename)*
