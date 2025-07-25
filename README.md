@@ -13,26 +13,26 @@
 ## Digital Forensics
 
 1. **Challenge name**: Kid  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Writeup.pdf)
 
 2. **Challenge name**: CAT  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Writeup.pdf)
 
 3. **Challenge name**: Normal Image  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Solution/Digital_Forensics_Writeups[1].pdf)
 
 ---
 
 ## Network Security
 
 1. **Challenge name**: Not Easy to Get  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Network_security_Writups.pdf)
 
 2. **Challenge name**: Flag  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Network_security_Writups.pdf)
 
 3. **Challenge name**: NetAsk  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/NetAsk_Challenge_C3.pdf)
 
 ---
 
@@ -45,4 +45,4 @@
    **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
 
 3. **Challenge name**: Hill to Hell  
-   **Solution file**: [View Solution](/Solution/Guession_Challenge_C1.pdf)
+   **Solution file**: [View Solution](/Solution/Write-Up-Crypto.pdf)
