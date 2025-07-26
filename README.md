@@ -42,7 +42,7 @@
    **Solution file**: [View Solution](https://github.com/NXR8/CSC-BZU-CTF/blob/main/23-7-25/readMe/HashCracker.md)
 
 2. **Challenge name**: Power Lies in Multi-layered Encoding  
-   **Solution file**: [View Solution]([Solution/PowerLiesInMulti-layeredEncoding.md](https://github.com/NXR8/CSC-BZU-CTF/blob/main/23-7-25/readMe/PowerLiesInMulti-layeredEncoding.md))
+   **Solution file**: [View Solution]((https://github.com/NXR8/CSC-BZU-CTF/blob/main/23-7-25/readMe/PowerLiesInMulti-layeredEncoding.md))
 
 3. **Challenge name**: Hill to Hell  
-   **Solution file**: [View Solution]([Solution/HillToHell.md](https://github.com/NXR8/CSC-BZU-CTF/blob/main/23-7-25/readMe/HillToHell.md))
+   **Solution file**: [View Solution]((https://github.com/NXR8/CSC-BZU-CTF/blob/main/23-7-25/readMe/HillToHell.md))
