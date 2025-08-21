@@ -40,11 +40,11 @@
 
 2. **Challenge name**: stupid RSA  
    **Points**: 200  
-   **Solution file**: [View Solution](/Solution/Stupid_RSA.pdf)
+   **Solution file**: [View Solution]([/Solution/Stupid_RSA.pdf](https://github.com/NXR8/CSC-BZU-CTF/blob/main/20-8-25/readMe/stupidRSA.md)
 
 3. **Challenge name**: DESperate in Gaza  
    **Points**: 200  
-   **Solution file**: [View Solution](/Solution/DESperate_in_Gaza.pdf)
+   **Solution file**: [View Solution]([/Solution/DESperate_in_Gaza.pdf](https://github.com/NXR8/CSC-BZU-CTF/blob/main/20-8-25/readMe/DESperateInGaza.md)
 
 ---
 
