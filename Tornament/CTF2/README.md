@@ -12,7 +12,7 @@
 
 3. **Challenge name**: Upload & Pray  
    **Points**: 200  
-   **Solution file**: [View Solution](/Solution/Upload_and_Pray.pdf)
+   **Solution file**: [View Solution](/Solution/Osama_Web_CTF2.pdf)
 
 ---
 
