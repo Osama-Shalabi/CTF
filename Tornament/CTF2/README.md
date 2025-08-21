@@ -4,7 +4,7 @@
 
 1. **Challenge name**: I Came, I Saw, I Injected  
    **Points**: 100  
-   **Solution file**: [View Solution](/Solution/I_Came_I_Saw_I_Injected.pdf)
+   **Solution file**: [View Solution](/Solution/Taleen_Web_CTF2.pdf)
 
 2. **Challenge name**: Dr. Adminectomy  
    **Points**: 200  
