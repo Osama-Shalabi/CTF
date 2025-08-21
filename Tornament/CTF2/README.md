@@ -36,7 +36,7 @@
 
 1. **Challenge name**: Kasiski's Nightmare  
    **Points**: 100  
-   **Solution file**: [View Solution](/Solution/Kasiski_Nightmare.pdf)
+   **Solution file**: [View Solution]([/Solution/Kasiski_Nightmare.pdf](https://github.com/NXR8/CSC-BZU-CTF/blob/main/20-8-25/readMe/%20KasiskisNightmare.md))
 
 2. **Challenge name**: stupid RSA  
    **Points**: 200  
