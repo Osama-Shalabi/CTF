@@ -1,4 +1,4 @@
-# CTF Tournament - Challenges
+# CTF Tournament - 20/8/2025 - Challenges
 
 ## Web
 
